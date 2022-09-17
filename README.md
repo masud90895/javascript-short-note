@@ -672,7 +672,7 @@ console.log("Not a Valid Number");
 
 ```Js
 for (var i = 1; i <= 50; i++) {
-console.log(i + " Md. Nazmul islam");
+console.log(i + " Md.Mahafujur Rahaman Masud");
 }
 ```
 
@@ -685,7 +685,7 @@ console.log(i + " Md. Nazmul islam");
 ```Js
 var i = 0;
 while (i <= 10) {
-console.log(i + " Md. Nazmul islam");
+console.log(i + " Md.Mahafujur Rahaman Masud");
 i++;
 }
 ```
@@ -1440,7 +1440,7 @@ obj2.a = 40;
 console.log(obj2);
 
 var obj3 = new Object();
-obj3.name = "Md. Nazmul islam";
+obj3.name = "Md.Mahafujur Rahaman Masud";
 console.log(obj3);
 Accessing Object Properties
 var point = {
@@ -1540,7 +1540,7 @@ var result = a + b;
 console.log(result);
 }
 add(10, 10); // 10 and 20 is arguments
-add("Md. ", "Nazmul islam"); // concat the text
+add("Md. ", "Mahafujur Rahaman Masud"); // concat the text
 var arr = [10, 20, 30, 40, 50];
 
 function sumOfArr(arr) {
@@ -1587,7 +1587,7 @@ email: email,
 };
 console.log("don't run this statement"); // Not Run
 }
-var p1 = person("Md. Nazmul islam", "developer.nazmulislam@gmail.com");
+var p1 = person("Md.Mahafujur Rahaman Masud", "masudhossainmbs@gmail.com");
 console.log(p1);
 Function Expression
 var addition = function (a, b) {
@@ -1608,7 +1608,7 @@ console.log(greet, name);
 }
 sayHi();
 }
-something("Good Morning", "Nazmul Islam");
+something("Good Morning", "Md.Mahafujur Rahaman Masud");
 
 function somthing2(greet, name) {
 function getFirstName() {
@@ -1621,7 +1621,7 @@ return "";
 var message = greet + " " + getFirstName();
 console.log(message);
 }
-somthing2("Good Morning", "Nazmul Islam");
+somthing2("Good Morning", "Md.Mahafujur Rahaman Masud");
 
 ### Function Scoping
 
@@ -2125,7 +2125,7 @@ a = 20; // throws an error
 
 ```Js
 
-const name = "Nazmul";
+const name = "Md.Mahafujur Rahaman Masud";
 let price = 10;
 let VAT = 0.25;
 
@@ -2633,7 +2633,7 @@ console.log("apple".startsWith("ap")); // prints true
 console.log("apple".startsWith("bb")); // prints false
 String repeat ()
 var age = 23;
-var name = "Md. Nazmul islam";
+var name = "Md.Mahafujur Rahaman Masud";
 console.log("ab".repeat(3)); // prints "ababab"
 console.log(name.padStart(15, "\*"));
 console.log(name.padEnd(15, "a"));
@@ -3495,7 +3495,7 @@ history.go(1)
 
 ### Problem Solving
 
-[Solution](https://github.com/dev-nazmulislam/javaScript-problem-solving)
+[Solution](www.facebook.com/masud90895)
 <small><a href="#javascript-tutorial">Top</a></small>
 
 1.  Print in Console numbers from 1 to 10
